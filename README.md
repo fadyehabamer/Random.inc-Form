@@ -1,2 +1,3 @@
-# Random.inc
- Sign up form
+<p align='center'>
+ <img src='sc.png'>
+</p>
